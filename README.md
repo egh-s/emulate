@@ -4,7 +4,7 @@ Simple command line tool to discover how many games are needed to proof a progra
 Example -
 Games : 1000
 Rounds:   20
-Will produce the following result of 20 1000 game matches.
+Will produce the following result of 20 x 1000 game matches.
 
 488-511 (48.9%)<br>
 499-501 (49.9%)<br>
