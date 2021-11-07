@@ -1,9 +1,9 @@
 # emulate engine-engine matches.
 Simple command line tool to discover how many games are needed to proof a program change.
 
-Example -
-Games : 1000
-Rounds:   20
+Example -<br>
+Games : 1000<br>
+Rounds:   20<br>
 Will produce the following result of 20 x 1000 game matches.
 
 488-511 (48.9%)<br>
