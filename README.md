@@ -6,7 +6,7 @@ Games : 1000
 Rounds:   20
 Will produce the following result of 20 1000 game matches.
 
-488-511 (48.9%)
+488-511 (48.9%)<br>
 499-501 (49.9%)
 513-487 (51.3%)
 496-503 (49.6%)
